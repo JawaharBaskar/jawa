@@ -1,0 +1,20 @@
+h1{
+    text-align: center;
+}
+button{
+    background-color: green;
+    border: solid 3px gray;
+    float: right;
+}
+img{
+    float: left;
+}
+ul{
+    float: right;
+}
+ol{
+    float: right;
+}
+.jawa{
+    float: left;position: relative;left: 900px;top: -50px;
+}
